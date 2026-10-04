@@ -1,0 +1,9 @@
+# Тяжёлые файлы не храним в git — они в Releases
+*.mp4
+ffmpeg.exe
+yt-dlp.exe
+vosk-model-*/
+vosk-model-*/
+__pycache__/
+*.pyc
+*.pyo
